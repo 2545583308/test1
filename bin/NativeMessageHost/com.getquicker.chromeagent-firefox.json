@@ -1,9 +1,0 @@
-{
-  "name": "com.getquicker.chromeagent",
-  "description": "Native message host for Quicker application",
-  "path": "C:/Users/Administrator/AppData/Local/Quicker/bin/NativeMessageHost/chromeagent.exe",
-  "type": "stdio",
-  "allowed_extensions": [
-    "addon@getquicker.net"
-  ]
-}
